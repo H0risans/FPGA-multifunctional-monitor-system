@@ -3,4 +3,5 @@ Which based on gowin 138k FPGA.This project provides features including edge det
 This project is the national first prize winning entry in the fpga competition of the 2023 National Embedded and System Design Competition(2023年全国嵌入式与系统设计大赛fpga竞赛).
 
 Note that I will be open sourcing this project in mid-December 2024, until then the project source code can be purchased at the following link.
+
 https://m.tb.cn/h.5qR7WyY?tk=t7YpW7Z5RG8
